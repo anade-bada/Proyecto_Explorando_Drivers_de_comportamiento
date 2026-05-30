@@ -1,4 +1,3 @@
-# Proyecto_Explorando_Drivers_de_comportamiento
 Explorando Drivers de Comportamiento en NovaRetail+
 
 📊 Descripción del Proyecto
